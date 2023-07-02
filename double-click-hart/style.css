@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #eeeeee;
+    /* color: white; */
+    font-family: 'Oswald', sans-serif;
+    gap: 20px;
+}
+.container {
+    width: 340px;
+    height: 470px;
+    background-image: url("./car-road-white-cars-vehicle-wallpaper-preview.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    overflow: hidden;
+    border-radius: 3px;
+}
+i {
+    color: red;
+}
+h1 {
+    letter-spacing: -1px;
+    font-size: 1.5rem;
+}
+p {
+    user-select: none;
+    margin-top: -16px;
+    letter-spacing: 1px;
+}
+p span {
+    background-color: #d71111;
+    padding: 0px 9px;
+    border-radius: 5px;
+    line-height: 0px;
+    margin: 0px 3px;
+    color: white;
+}
+
+.container i {
+    transform: translate(-50%, -50%);
+    position: absolute;
+    animation-name: scaleHart;
+    animation-duration: 0.7s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes scaleHart {
+    from {
+        transform: scale(1);
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+        transform: scale(8);
+    }
+}
