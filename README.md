@@ -12,5 +12,6 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 4              | Custom Range Slider    | [Live Demo](https://649d802814d4fd06f21aa2bd--reliable-quokka-372b68.netlify.app/) |
 | 5              | Button Ripple Effect   | [Live Demo](https://649ebcb74b925100892cf385--fantastic-gecko-412f5d.netlify.app/) |
 | 6              | Drawing App            | [Live Demo](https://64a00b01a3ef6d1ff67df26a--loquacious-frangipane-053790.netlify.app/) |
-| 7              | Double Click Heart      | [Live Demo](https://64a1646ebad6fb434e412885--stalwart-bombolone-dce336.netlify.app/) |
+| 7              | Double Click Heart     | [Live Demo](https://64a1646ebad6fb434e412885--stalwart-bombolone-dce336.netlify.app/) |
 | 8              | Double Vertical Slider | [Live Demo](https://64a2337abad6fb33c941283c--gentle-bublanina-91deee.netlify.app/) |
+| 9              | Dad Joke               | [Live Demo](https://64a40468a845b20dd01f91b7--roaring-lebkuchen-f16e73.netlify.app/) |
