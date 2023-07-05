@@ -1,0 +1,41 @@
+/* Reset all styles for all elements */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: #2390ab;
+}
+.empty {
+    width: 150px;
+    height: 150px;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: #fff;
+}
+
+/* Styling for the draggable element */
+.fill {
+    background-image: url("https://source.unsplash.com/random/150x150");
+    height: 145px;
+    width: 145px;
+    cursor: pointer;
+}
+
+/* Styleing when the element is being dragged */
+.hold {
+    border: 5px solid #ccc;
+}
+
+/* when the element is being hovered over */
+.hovered {
+    /* border: 3px dashed gray; */
+    background-color: #333;
+    border-color: #fff;
+    border-style: dashed;
+}
