@@ -16,3 +16,4 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 8              | Double Vertical Slider | [Live Demo](https://64a2337abad6fb33c941283c--gentle-bublanina-91deee.netlify.app/) |
 | 9              | Dad Joke               | [Live Demo](https://64a40468a845b20dd01f91b7--roaring-lebkuchen-f16e73.netlify.app/) |
 | 10             | Drag-n-Drop            | [Live Demo](https://64a5563c6eab6000811ed261--wonderful-torrone-ee80c6.netlify.app/) |
+| 11             | Blurry Loading         | [Live Demo](https://64a67d5790757c5715967671--reliable-medovik-bf41a7.netlify.app/) |
