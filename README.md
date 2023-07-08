@@ -17,3 +17,4 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 9              | Dad Joke               | [Live Demo](https://64a40468a845b20dd01f91b7--roaring-lebkuchen-f16e73.netlify.app/) |
 | 10             | Drag-n-Drop            | [Live Demo](https://64a5563c6eab6000811ed261--wonderful-torrone-ee80c6.netlify.app/) |
 | 11             | Blurry Loading         | [Live Demo](https://64a67d5790757c5715967671--reliable-medovik-bf41a7.netlify.app/) |
+| 12             | Drink Water            | [Live Demo](https://64a80c7dd19e2a0f5df5715c--effortless-tulumba-7396c6.netlify.app/) |
