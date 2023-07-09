@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+*::before, *::after {
+    box-sizing: border-box;
+}
+
+:root {
+    --border-color: rgb(203, 53, 12);
+}
+
+html, body {
+    font-size: 10px;
+    font-family: "lato", Arial, sans-serif;
+}
+body {
+    background: #d1dbe3;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    border: .4rem dashed var(--border-color);
+    background-color: #d1dbe3;
+    width: 33rem;
+    height: 33rem;
+    border-radius: 50%;
+    position: relative;
+    box-shadow: 0 -1.2em 1.2em rgba(255, 255, 255, 0.06),
+    inset 0 -1.2em 1.2em rgba(255, 255, 255, 0.06),
+    0 1.2em 1.2em rgba(0, 0, 0, 0.3), inset 0 1.2em 1.2em rgba(0, 0, 0, 0.3);
+} 
+
+.number {
+    --rotateAngle: 0;
+    position: absolute;
+    width: 100%;
+    /* border: 1px solid red; */
+    height: 100%;
+    text-align: center;
+    transform: rotate(var(--rotateAngle));
+    font-size: 2.5rem;
+    padding: 0.7rem;
+}
+
+.number1 {
+    --rotateAngle: 30deg;
+}
+.number2 {
+    --rotateAngle: 60deg;
+}
+.number3 {
+    --rotateAngle: 90deg;
+}
+.number4 {
+    --rotateAngle: 120deg;
+}
+.number5 {
+    --rotateAngle: 150deg;
+}
+.number6 {
+    --rotateAngle: 180deg;
+}
+.number7 {
+    --rotateAngle: 210deg;
+}
+.number8 {
+    --rotateAngle: 240deg;
+}
+.number9 {
+    --rotateAngle: 270deg;
+}
+.number10 {
+    --rotateAngle: 300deg;
+}
+.number11 {
+    --rotateAngle: 330deg;
+}
+
+.container .number .undo {
+    --undoAngle: 0;
+    transform: rotate(var(--undoAngle));
+}
+
+.container .number1 .undo { --undoAngle: -30deg; }
+.container .number2 .undo { --undoAngle: -60deg; }
+.container .number3 .undo { --undoAngle: -90deg; }
+.container .number4 .undo { --undoAngle: -120deg; }
+.container .number5 .undo { --undoAngle: -150deg; }
+.container .number6 .undo { --undoAngle: -180deg; }
+.container .number7 .undo { --undoAngle: -210deg; }
+.container .number8 .undo { --undoAngle: -240deg; }
+.container .number9 .undo { --undoAngle: -270deg; }
+.container .number10 .undo { --undoAngle: -300deg; }
+.container .number11 .undo { --undoAngle: -330deg; }
+
+.container .hand {
+    background-color: black;
+    width: 10px;
+    height: 40px;
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    transform-origin: bottom;
+    z-index: 10;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    transform: translateX(-50%);
+}
+
+.container .hour {
+    width: 1rem;
+    height: 8rem;
+    background-color: var(--border-color);
+}
+
+.container .minute {
+    width: 0.5rem;
+    height: 11rem;
+    background-color: #101f25;
+}
+.container .second {
+    width: .2rem;
+    height: 12.4rem;
+    background-color: #ff8f00;
+}
+.container::after {
+    content: "";
+    position: absolute;
+    background-color: #e6d447;
+    z-index: 11;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+}
