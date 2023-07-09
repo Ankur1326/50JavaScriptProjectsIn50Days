@@ -20,3 +20,16 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 12             | Drink Water            | [Live Demo](https://64a80c7dd19e2a0f5df5715c--effortless-tulumba-7396c6.netlify.app/) |
 | 13             | Event Keycodes         | [Live Demo](https://64a979344dd25f0bd8c7707e--fantastic-haupia-b27331.netlify.app/) |
 | 14             | Analog Clock           | [Live Demo](https://64aa3f4107c5a67282d76770--quiet-muffin-a52b88.netlify.app/) |
+
+
+<h1>License</h1>
+
+The MIT License
+
+Copyright (c) 2020-2021 Traversy Media https://traversymedia.com
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
