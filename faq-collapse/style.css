@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Muli', sans-serif;
+    background-color: #f0f0f0;
+    overflow-x: hidden;
+    padding: 2rem;
+}
+
+.faq-container {
+    max-width: 600px;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+.faq {
+    position: relative;
+    border: 1px solid #9fa4a8;
+    margin-top: 1rem;
+    padding: 11px 15px;
+    border-radius: 12px;
+    transition: all .3s ease;
+    overflow: hidden;
+}
+
+.faq.active::before,
+.faq.active::after {
+  content: '\f075';
+  font-family: 'Font Awesome 5 Free';
+  color: #2ecc71;
+  font-size: 7rem;
+  position: absolute;
+  opacity: 0.2;
+  top: 20px;
+  left: 20px;
+  z-index: 0;
+}
+.faq.active::before {
+    color: #3498db;
+    top: -10px;
+    left: -30px;
+    transform: rotateY(180deg);
+  }
+.faq.active {
+    background: #fff;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1), 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+.faq p {
+    display: none;
+}
+.faq.faq.active p {
+    display: block;
+}
+
+h1 {
+    max-width: 650px;
+    margin: auto;
+    text-align: center;
+}
+
+.faq h3 {
+    font-size: 1.2rem;
+}
+
+button {
+    position: absolute;
+    right: 20px;
+    top: 1rem;
+    border: none;
+    padding: 15px;
+}
+
+.faq.faq.active button {
+    background: #fff;
+}
+
+button i {
+    background: #959595;
+    color: rgb(255, 255, 255);
+    padding: 8px 9px;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 50px;
+    margin: 1px;
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+button .fa-times {
+    display: none;
+
+}
+.faq.active .fa-times {
+    display: block;
+}
