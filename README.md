@@ -22,7 +22,7 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 14             | Analog Clock           | [Live Demo](https://64aa3f4107c5a67282d76770--quiet-muffin-a52b88.netlify.app/) |
 | 15             | FAQ-collapse           | [Live Demo](https://64abc81d5489343d5976b470--fancy-duckanoo-a7c4e3.netlify.app/) |
 | 16             | HoverBoard             | [Live Demo](https://64ace9f62acb1a3a0d4613bb--splendid-axolotl-b9cf10.netlify.app/) |
-| 16             | expanding cards        | [Live Demo](https://64ae8fb64979231a88927f9d--endearing-manatee-b90cf7.netlify.app/) |
+| 17             | expanding cards        | [Live Demo](https://64ae8fb64979231a88927f9d--endearing-manatee-b90cf7.netlify.app/) |
 
 
 
