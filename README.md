@@ -23,6 +23,8 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 15             | FAQ-collapse           | [Live Demo](https://64abc81d5489343d5976b470--fancy-duckanoo-a7c4e3.netlify.app/) |
 | 16             | HoverBoard             | [Live Demo](https://64ace9f62acb1a3a0d4613bb--splendid-axolotl-b9cf10.netlify.app/) |
 | 17             | expanding cards        | [Live Demo](https://64ae8fb64979231a88927f9d--endearing-manatee-b90cf7.netlify.app/) |
+| 18             | Form Input Wave        | [Live Demo](https://64afcc2d84a38d4580a5c7c0--velvety-strudel-b27202.netlify.app/?) |
+
 
 
 
