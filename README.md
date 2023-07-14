@@ -4,7 +4,7 @@
 Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository documents my journey of creating 50 unique JavaScript projects over the course of 50 days. Each project is designed to showcase different aspects of JavaScript and provide practical examples of its applications.
 
 ## Project List
-| Project Number | Project Name           | Live Demo |
+| Project Number or day | Project Name           | Live Demo |
 |----------------|------------------------|-----------|
 | 1              | Animated Navigation    | [Live Demo](https://incandescent-axolotl-810e70.netlify.app/) |
 | 2              | Auto text Effect       | [Live Demo](https://649afe6522758800892fdfd7--resplendent-kelpie-b48687.netlify.app/) |
@@ -24,7 +24,7 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 16             | HoverBoard             | [Live Demo](https://64ace9f62acb1a3a0d4613bb--splendid-axolotl-b9cf10.netlify.app/) |
 | 17             | expanding cards        | [Live Demo](https://64ae8fb64979231a88927f9d--endearing-manatee-b90cf7.netlify.app/) |
 | 18             | Form Input Wave        | [Live Demo](https://64afcc2d84a38d4580a5c7c0--velvety-strudel-b27202.netlify.app/?) |
-
+| 19             | Feedback ui Design     | [Live Demo](https://frabjous-fox-e83e5f.netlify.app/) |
 
 
 
