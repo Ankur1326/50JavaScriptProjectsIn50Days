@@ -25,6 +25,7 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 17             | expanding cards        | [Live Demo](https://64ae8fb64979231a88927f9d--endearing-manatee-b90cf7.netlify.app/) |
 | 18             | Form Input Wave        | [Live Demo](https://64afcc2d84a38d4580a5c7c0--velvety-strudel-b27202.netlify.app/?) |
 | 19             | Feedback ui Design     | [Live Demo](https://frabjous-fox-e83e5f.netlify.app/) |
+| 20             | incrementing-counter   | [Live Demo](https://64b282d3bd75e97d11def9c4--mellifluous-lokum-5c0c61.netlify.app/) |
 
 
 
