@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel {
+    width: 500px;
+    height: 90vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.images_container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    transition: all .6s ease;
+}
+
+img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.btns {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+button {
+    padding: 7px 108px;
+    background-color: rgb(117 52 172);
+    border: none;
+    color: #fff;
+    font-size: 15px;
+    outline: none;
+}
