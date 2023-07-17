@@ -26,7 +26,7 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 18             | Form Input Wave        | [Live Demo](https://64afcc2d84a38d4580a5c7c0--velvety-strudel-b27202.netlify.app/?) |
 | 19             | Feedback ui Design     | [Live Demo](https://frabjous-fox-e83e5f.netlify.app/) |
 | 20             | incrementing-counter   | [Live Demo](https://64b282d3bd75e97d11def9c4--mellifluous-lokum-5c0c61.netlify.app/) |
-
+| 21             | Image carousel         | [Live Demo](https://64b3e8bf9a72cb3063efde55--adorable-biscotti-276e17.netlify.app/) |
 
 
 <h1>License</h1>
