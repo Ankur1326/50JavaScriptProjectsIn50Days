@@ -11,7 +11,6 @@ images.forEach((image, idx) => {
     image.style.transform = `translateX(${100 * idx}%)`
 })
 
-
 let idx = 0;
 let interval = setInterval(run, 2000)
 
@@ -24,7 +23,6 @@ function changeImage() {
     }
         imagesContainer.style.transform = `translateX(${-100 * idx}%)`
 }
-
 
 function run() {
     idx++
