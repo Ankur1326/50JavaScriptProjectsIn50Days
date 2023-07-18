@@ -28,9 +28,7 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 20             | incrementing-counter   | [Live Demo](https://64b282d3bd75e97d11def9c4--mellifluous-lokum-5c0c61.netlify.app/) |
 | 21             | Image carousel         | [Live Demo](https://64b3e8bf9a72cb3063efde55--adorable-biscotti-276e17.netlify.app/) |
 | 22             | Split Landing Page     | [Live Demo](https://64b4a9dee4fdea171088f062--playful-cannoli-67bbca.netlify.app/) |
-
-
-
+| 23             | Live User filter       | [Live Demo](https://github.com/Ankur1326/50JavaScriptProjectsIn50Days/tree/main/live-user-filter) | 
 
 <h1>License</h1>
 
