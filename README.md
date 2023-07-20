@@ -29,6 +29,8 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 21             | Image carousel         | [Live Demo](https://64b3e8bf9a72cb3063efde55--adorable-biscotti-276e17.netlify.app/) |
 | 22             | Split Landing Page     | [Live Demo](https://64b4a9dee4fdea171088f062--playful-cannoli-67bbca.netlify.app/) |
 | 23             | Live User filter       | [Live Demo](https://flourishing-rabanadas-094ab3.netlify.app/) | 
+| 24             | Cursor Animation       | [Live Demo](https://flourishing-rabanadas-094ab3.netlify.app/) | 
+
 
 <h1>License</h1>
 
