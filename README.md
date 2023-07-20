@@ -30,10 +30,9 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 22             | Split Landing Page     | [Live Demo](https://64b4a9dee4fdea171088f062--playful-cannoli-67bbca.netlify.app/) |
 | 23             | Live User filter       | [Live Demo](https://flourishing-rabanadas-094ab3.netlify.app/) | 
 | 24             | Cursor Animation       | [Live Demo](https://flourishing-rabanadas-094ab3.netlify.app/) | 
-
+| 25             | Notes App              | [Live Demo](https://64b936aa25c4c10475bd1064--thunderous-liger-790d68.netlify.app/) |
 
 <h1>License</h1>
-
 The MIT License
 
 Copyright (c) 2020-2021 Traversy Media https://traversymedia.com
