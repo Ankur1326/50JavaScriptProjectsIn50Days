@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>click circle draw</title>
+    <link rel="stylesheet" href="./style.css">
+    <style>
+        * {
+            margin: 0;
+        }
+
+        body{
+            min-height: 100vh;
+        } 
+
+        h3 {
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        .circle {
+            width: 30px;
+            height: 30px;
+            border: 1.5px solid black;
+            border-radius: 50%;
+            position: absolute;
+            /* background-color: rgb(255, 255, 178); */
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <h3>Click Anywhere</h3>
+
+
+    <script>
+        const body = document.querySelector("body")
+
+        document.addEventListener("click", (e) => {
+            const circle = document.createElement('div') 
+            circle.classList.add("circle")
+            
+            circle.style.top = `${e.pageY}px` 
+            circle.style.left = `${e.pageX}px`
+            
+            body.appendChild(circle)
+        })
+    </script>        
+</body>
+</html>
