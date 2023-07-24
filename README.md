@@ -33,6 +33,7 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 25             | Notes App              | [Live Demo](https://64b936aa25c4c10475bd1064--thunderous-liger-790d68.netlify.app/) |
 | 26             | Click Circle Draw      | [Live Demo](https://64ba6291e1b61e03bfb97577--ornate-toffee-01c247.netlify.app/) |
 | 27             | Rotating Nav Animation | [Live Demo](https://64bb4c58c252e01b7b126f0c--spectacular-entremet-7fa79a.netlify.app/) |
+| 28             | Pomodoro timer         | [Live Demo](https://64bd526e33a8cd3256944f84--mellifluous-piroshki-7de023.netlify.app/) |
 
 
 <h2>50 JavaScript Projects in 50 Days ➜ Course Link 👩‍🏫 ☞ https://www.traversymedia.com/50-Projects-In-50-Days </h2>
