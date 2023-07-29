@@ -36,6 +36,8 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 28             | Pomodoro timer         | [Live Demo](https://64bd526e33a8cd3256944f84--mellifluous-piroshki-7de023.netlify.app/) |
 | 29             | Sound Board            | [Live Demo](https://64be52fcbf7e1b008004403d--unique-bublanina-7b42d7.netlify.app/) |
 | 30             | Insect Catch Game      | [Live Demo](https://64c296691c6c4a0ac1af167e--gleeful-moonbeam-3abdd2.netlify.app/) |
+| 31             | Scroll Animation       | [Live Demo](https://delicate-genie-d86344.netlify.app/) |
+
 
 <h2>50 JavaScript Projects in 50 Days ➜ Course Link 👩‍🏫 ☞ https://www.traversymedia.com/50-Projects-In-50-Days </h2>
 
