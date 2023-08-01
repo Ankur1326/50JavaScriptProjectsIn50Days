@@ -38,6 +38,8 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 30             | Insect Catch Game      | [Live Demo](https://64c296691c6c4a0ac1af167e--gleeful-moonbeam-3abdd2.netlify.app/) |
 | 31             | Scroll Animation       | [Live Demo](https://delicate-genie-d86344.netlify.app/) |
 | 32             | Animation coundown     | [Live Demo](https://64c5350e71ccc67d2f69978c--statuesque-fairy-1fe60a.netlify.app/) |
+| 33             | Random Image Generator | [Live Demo](https://timely-gumption-48555d.netlify.app/) |
+| 34             | Random Linear Gradient | [Live Demo](https://64c909a66a382010d7379803--delicate-torrone-fd2d7a.netlify.app/) |
 
 
 
