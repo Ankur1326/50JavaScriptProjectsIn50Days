@@ -14,7 +14,7 @@ function getRendomColor() {
     for (let i = 0; i < 6; i++) {
         color += letters[Math.floor(Math.random() * 16)];
     }
-    return color;
+    return color; // Hexa format
 }
 
 // Function to update the user with random colors
@@ -25,10 +25,10 @@ function updateUI() {
     color1Elem.innerText = getRendomColor();
     color2Elem.innerText = getRendomColor();
 
-    // Set the background of the body using a linear gradient of the two random colors
+    // Set the background of the body using a linear gradient 
     body.style.backgroundImage = `linear-gradient(90deg, ${color1Elem.innerText}, ${color2Elem.innerText})`;
 
-    // Set the background color of color1Elem and color2Elem to the corresponding random colors
+    // Set the background color of color1Elem and color2Elem 
     color1Elem.style.backgroundColor = color1Elem.innerText;
     color2Elem.style.backgroundColor = color2Elem.innerText;
 
