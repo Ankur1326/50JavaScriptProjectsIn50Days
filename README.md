@@ -41,6 +41,7 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 33             | Random Image Generator | [Live Demo](https://timely-gumption-48555d.netlify.app/) |
 | 34             | Random Linear Gradient | [Live Demo](https://64c909a66a382010d7379803--delicate-torrone-fd2d7a.netlify.app/) |
 | 35             | Progress Steps         | [Live Demo](https://resonant-llama-66eeae.netlify.app/) |
+| 36             | Toast Notification     | [Live Demo](https://quiet-rolypoly-e39630.netlify.app/) |
 
 
 <h2>50 JavaScript Projects in 50 Days ➜ Course Link 👩‍🏫 ☞ https://www.traversymedia.com/50-Projects-In-50-Days </h2>
