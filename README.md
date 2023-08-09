@@ -45,7 +45,7 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 37             | Theme Clock            | [Live Demo](https://lnkd.in/dDJAxiuu) |
 | 38             | Todo List              | [Live Demo](https://jolly-tarsier-21f3fc.netlify.app/) |
 | 39             | Speed Reader           | [Live Demo](https://splendid-choux-4ccae6.netlify.app/) |
-| 40             |  Password Strength     | [Live Demo](https://splendid-choux-4ccae6.netlify.app/) |
+| 40             |  Password Strength     | [Live Demo](https://stalwart-phoenix-1887b0.netlify.app/) |
 
 
 
