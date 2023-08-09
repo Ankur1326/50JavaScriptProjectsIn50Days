@@ -44,7 +44,7 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 36             | Toast Notification     | [Live Demo](https://quiet-rolypoly-e39630.netlify.app/) |
 | 37             | Theme Clock            | [Live Demo](https://lnkd.in/dDJAxiuu) |
 | 38             | Todo List              | [Live Demo](https://jolly-tarsier-21f3fc.netlify.app/) |
-| 39             | Speed Reader              | [Live Demo](https://jolly-tarsier-21f3fc.netlify.app/) |
+| 39             | Speed Reader           | [Live Demo]() |
 
 
 
