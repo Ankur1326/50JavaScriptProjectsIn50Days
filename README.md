@@ -46,6 +46,8 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 38             | Todo List              | [Live Demo](https://jolly-tarsier-21f3fc.netlify.app/) |
 | 39             | Speed Reader           | [Live Demo](https://splendid-choux-4ccae6.netlify.app/) |
 | 40             |  Password Strength     | [Live Demo](https://stalwart-phoenix-1887b0.netlify.app/) |
+| 41             |  Sticky Navigation     | [Live Demo](https://64d51d613ce3ec0e10b49b0e--gentle-fudge-feb6c5.netlify.app/) |
+
 
 
 
