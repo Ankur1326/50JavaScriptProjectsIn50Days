@@ -48,8 +48,8 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 41             |  Sticky Navigation             | [Live Demo](https://64d51d613ce3ec0e10b49b0e--gentle-fudge-feb6c5.netlify.app/) |
 | 42             |  EuroSchool Friend Forever     | [Live Demo](https://unique-lollipop-04b9b0.netlify.app/) |
 | 43             |  Mobile Navigation Menu        | [Live Demo](https://lnkd.in/dm5N2ZxM) |
-| 44             |  Verify Account UI             | [Live Demo]( https://lnkd.in/deeTaj4B) | 
-| 45             |  Password Generator            | [Live Demo]( https://lnkd.in/deeTaj4B) |
+| 44             |  Verify Account UI             | [Live Demo](https://lnkd.in/deeTaj4B) | 
+| 45             |  Password Generator            | [Live Demo](https://lnkd.in/dyeJqnZz) |
 
 <h2>50 JavaScript Projects in 50 Days ➜ Course Link 👩‍🏫 ☞ https://www.traversymedia.com/50-Projects-In-50-Days </h2>
 
