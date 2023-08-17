@@ -50,6 +50,9 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 43             |  Mobile Navigation Menu        | [Live Demo](https://lnkd.in/dm5N2ZxM) |
 | 44             |  Verify Account UI             | [Live Demo](https://lnkd.in/deeTaj4B) | 
 | 45             |  Password Generator            | [Live Demo](https://lnkd.in/dyeJqnZz) |
+| 46             |  Quotes Generator              | [Live Demo](https://lnkd.in/dyeJqnZz) |
+
+
 
 <h2>50 JavaScript Projects in 50 Days ➜ Course Link 👩‍🏫 ☞ https://www.traversymedia.com/50-Projects-In-50-Days </h2>
 
