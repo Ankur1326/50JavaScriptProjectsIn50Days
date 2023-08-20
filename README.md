@@ -51,6 +51,8 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 44             |  Verify Account UI             | [Live Demo](https://lnkd.in/deeTaj4B) | 
 | 45             |  Password Generator            | [Live Demo](https://lnkd.in/dyeJqnZz) |
 | 46             |  Quotes Generator              | [Live Demo](https://64de5fc9f3a3b43857cb8256--rainbow-sable-9ed047.netlify.app/) |
+| 47             |  Content Placeholder           | [Live Demo](https://glittery-tartufo-639314.netlify.app/) |
+| 48             |  Currency Converter            | [Live Demo](https://64e2475444ad107f1154ab19--joyful-elf-41b9af.netlify.app/) |
 
 
 
