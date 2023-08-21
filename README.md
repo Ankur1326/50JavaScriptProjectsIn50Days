@@ -4,9 +4,9 @@
 Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository documents my journey of creating 50 unique JavaScript projects over the course of 50 days. Each project is designed to showcase different aspects of JavaScript and provide practical examples of its applications.
 
 ## Project List
-| Project Number or Day | Project Name           | Live Demo |
-|----------------|------------------------|-----------|
-| 1              | Animated Navigation    |       | [Live Demo](https://incandescent-axolotl-810e70.netlify.app/) |
+| Project Number or Day | Project Name            | Live Demo |
+|----------------|--------------------------------|-----------|
+| 1              | Animated Navigation            | [Live Demo](https://incandescent-axolotl-810e70.netlify.app/) |
 | 2              | Auto text Effect               | [Live Demo](https://649afe6522758800892fdfd7--resplendent-kelpie-b48687.netlify.app/) |
 | 3              | Background Slider              | [Live Demo](https://luminous-khapse-1ba58f.netlify.app/) |
 | 4              | Custom Range Slider            | [Live Demo](https://649d802814d4fd06f21aa2bd--reliable-quokka-372b68.netlify.app/) |
@@ -51,6 +51,8 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 44             |  Verify Account UI             | [Live Demo](https://lnkd.in/deeTaj4B) | 
 | 45             |  Password Generator            | [Live Demo](https://lnkd.in/dyeJqnZz) |
 | 46             |  Quotes Generator              | [Live Demo](https://64de5fc9f3a3b43857cb8256--rainbow-sable-9ed047.netlify.app/) |
+| 47             |  Content Placeholder           | [Live Demo](https://glittery-tartufo-639314.netlify.app/) |
+| 48             |  Currency Converter            | [Live Demo](https://64e2475444ad107f1154ab19--joyful-elf-41b9af.netlify.app/) |
 
 
 
