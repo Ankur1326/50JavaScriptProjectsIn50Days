@@ -54,7 +54,7 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 47             |  Content Placeholder           | [Live Demo](https://glittery-tartufo-639314.netlify.app/) |
 | 48             |  Currency Converter            | [Live Demo](https://64e2475444ad107f1154ab19--joyful-elf-41b9af.netlify.app/) |
 | 49             |  Age Calculator                | [Live Demo](https://chic-salmiakki-f47c94.netlify.app/) |
-| 50             |  Tip Calculator                | [Live Demo](https://chic-salmiakki-f47c94.netlify.app/) |
+| 50             |  Tip Calculator                | [Live Demo](https://64e621b5c171d324b98b08da--famous-beignet-7976bd.netlify.app/) |
 
 
 
