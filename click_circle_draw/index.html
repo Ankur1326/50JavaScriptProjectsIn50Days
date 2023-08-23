@@ -10,7 +10,7 @@
             margin: 0;
         }
 
-        body{
+        body {
             min-height: 100vh;
         } 
 
@@ -45,7 +45,13 @@
             circle.style.left = `${e.pageX}px`
             
             body.appendChild(circle)
+
+            setTimeout(() => {
+                circle.classList.remove("circle")
+            }, 2000);
         })
+
+        
     </script>        
 </body>
 </html>
