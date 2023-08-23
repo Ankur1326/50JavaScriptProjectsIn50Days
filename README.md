@@ -53,7 +53,7 @@ Welcome to the "50 JavaScript Projects in 50 Days" challenge! This repository do
 | 46             |  Quotes Generator              | [Live Demo](https://64de5fc9f3a3b43857cb8256--rainbow-sable-9ed047.netlify.app/) |
 | 47             |  Content Placeholder           | [Live Demo](https://glittery-tartufo-639314.netlify.app/) |
 | 48             |  Currency Converter            | [Live Demo](https://64e2475444ad107f1154ab19--joyful-elf-41b9af.netlify.app/) |
-
+| 49             |  Age Calculator                | [Live Demo](https://64e2475444ad107f1154ab19--joyful-elf-41b9af.netlify.app/) |
 
 
 
